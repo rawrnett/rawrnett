@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rawrnett
-- 👀 I’m interested in video game development, eSports, web development. 
-- 🌱 I’m currently learning Java, my first language. 
+- 👋 Hi
 
 
 <!---
